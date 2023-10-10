@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhisek Sethi</h1>
 <h3 align="center">I'm a passionate MEAN Stack Developer dedicated to crafting cutting-edge web solutions.</h3>
-<img align="right" alt="coading" width="400" src"https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966"/>
+<img align="right" alt="coading" width="400" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolguyl&label=Profile%20views&color=0e75b6&style=flat" alt="coolguyl" /> </p>
 

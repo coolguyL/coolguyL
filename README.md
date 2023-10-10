@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhisek Sethi</h1>
 <h3 align="center">I'm a passionate MEAN Stack Developer dedicated to crafting cutting-edge web solutions.</h3>
-<img align="right" alt="coading" width="400" src="![image](https://github.com/coolguyL/coolguyL/assets/102635859/da676fcf-abad-4263-9edd-fa65f95d0bf0)
+<img align="right" alt="coading" width="400" src="![image](https://github.com/coolguyL/coolguyL/assets/102635859/26833658-8792-41be-b54c-45a9c39218cd)
+
 "/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolguyl&label=Profile%20views&color=0e75b6&style=flat" alt="coolguyl" /> </p>
 
 - 🔭 I’m currently working on a **Pre school Learing Application**
 
-- 🌱 I’m currently learning **Express, Node , mongo, python,djsngi**
+- 🌱 I’m currently learning **Express, Node , mongo, python,django**
 
 - 📫 How to reach me **abhiseksethi3271@gmail.com**
 
